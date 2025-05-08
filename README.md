@@ -1,1 +1,1 @@
-# Survey-Form
+This is a custom survey form designed and built using HTML and CSS. It demonstrates a responsive layout and user-friendly design. The purpose of this form is to collect user input in a structured format for demonstration or project purposes. All inputs are for testing only and not stored or shared.
